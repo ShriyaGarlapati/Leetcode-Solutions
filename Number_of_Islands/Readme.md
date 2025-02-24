@@ -12,6 +12,7 @@ Input: grid = [
   ["0","0","0","0","0"]
 ]
 Output: 1
+
 Example 2:
 
 Input: grid = [
